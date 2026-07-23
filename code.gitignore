@@ -39,13 +39,13 @@
 </nav>
 
 <!--breadcrump-->
-<nav aria-label="breadcrumb">
+<!-- <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="#">Home</a></li>
     <li class="breadcrumb-item"><a href="#">Events</a></li>
     <li class="breadcrumb-item active" aria-current="page">Contact us</li>
   </ol>
-</nav>
+</nav> -->
 
 
 <!-- Hero Section -->
